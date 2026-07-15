@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thegentlemenforexport.netlify.app/sitemap.xml
+Sitemap: https://thegentlemenforexport.com/sitemap.xml
